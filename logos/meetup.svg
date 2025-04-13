@@ -9,7 +9,6 @@
 <g id="g9361" transform="translate(39.067803,161)">
 	<rect id="rect8591" x="-43.5" y="58.1" fill="#FFFFFF" width="757.2" height="328.7"/>
 	<g id="g8585" transform="translate(-39.567803,-161)">
-		
 			<path id="path8589" inkscape:connector-curvature="0" sodipodi:nodetypes="sscccsscccsscccsscssccccccccccssssssssssscsscccssssssssssssccsssssssssssscsscsccssssscccsssssssscssscssssssssssccssssssssscssssscsssssssssssscsssssscsssssssssscsssssssssssssssssssss" fill="#F00101" d="
 			M23.9,598.6c-10.3-3.9-22.1-15.2-27.5-26l-3.9-8V346V127.4l3.9-8c5.5-11.2,17.2-22.1,27.9-26.1l8.8-3.3h343.3h343.3l9.1,3.4
 			c10.9,4.1,23,15.4,28.1,26.4l3.5,7.5V346v218.6l-3.5,7.5c-5.1,11-17.1,22.3-28.1,26.4l-9.1,3.4L376,601.9
@@ -45,7 +44,6 @@
 			c1.1-4.4,1.8-15.5,1.6-26.1c-0.5-25.5,1.2-27.2,19.7-18.6c14.7,6.8,14.8,7,12.6,24.7c-2,15.9-4.1,22.3-8.7,26.4
 			c-1.6,1.4-4.5,5.7-6.5,9.5c-2,3.8-4.6,6.9-5.8,6.9c-1.2,0-2.4,1.1-2.8,2.4c-0.6,2.1-0.5,2.1,1,0c0.9-1.3,1.7-1.7,1.7-0.8
 			c0,3.5-15.5,18.4-20.8,19.9C531.7,448.6,512.9,448.1,509,445.4L509,445.4z"/>
-		
 			<path id="path8587" inkscape:connector-curvature="0" sodipodi:nodetypes="cssssssssssscsscccssssssssssssccsssscssssssssscssssssscccsscssssscssscsscsssssssscscsssssssssssssscsccssssssssssscsssssscssssssssssscssssssssssscsssssssssss" fill="#030303" d="
 			M596.1,511.4c-3-2.2-8.4-32-10.7-58.8c-1-12-1.6-14-5.7-17.7c-6.5-6.1-5.4-14.1,2-14.1c2.9,0,4.3-4.1,5.3-15.3
 			c1.8-20,8.7-46.5,15.5-60.1c7.8-15.6,28-32.7,38.5-32.7c3.4,0,12.7,3,24,7.8c1.7,0.7,5.2,2.2,7.6,3.1c3.1,1.2,5.6,4.4,8.3,10.1
